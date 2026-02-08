@@ -25,6 +25,14 @@ To ensure data integrity and optimal dashboard performance, the following techni
 * **DAX Measure Development:** Authored complex calculated measures using DAX to track real-time KPIs, including Total Sales, Average Rating, and Year-over-Year growth simulations.
 * **Star-Schema Modeling:** Designed a robust semantic model optimized for performance, utilizing a star-schema approach to facilitate seamless filtering across multiple dimensions (Outlet, Item Type, and Location).
 * **Attribute Engineering:** Created custom groupings and bins for outlet sizes and item categories to provide deeper granularity in stakeholder reporting.
+  
+## Dashboard Screenshot:-
+Check out the dashboard here - 
+ **[Dashboard](https://github.com/dataspecialist/QuickCommerce-SalesAnalysis/blob/main/Blinkit%20Dashboard.pbix)** 
+ 
+ <p align="center">
+  <img src="[path/to/your/image.png](https://github.com/dataspecialist/QuickCommerce-SalesAnalysis/blob/main/image.png)" width="600" />
+</p>
 
 ## 🔍 Key Insights:
 1.  **Consumer Health Shift:** "Low Fat" products generate significantly higher sales ($776K) compared to "Regular" products ($425K).
