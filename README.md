@@ -31,7 +31,7 @@ Check out the dashboard here -
  **[Dashboard](https://github.com/dataspecialist/QuickCommerce-SalesAnalysis/blob/main/Blinkit%20Dashboard.pbix)** 
  
  <p align="center">
-  <img src="[path/to/your/image.png](https://github.com/dataspecialist/QuickCommerce-SalesAnalysis/blob/main/image.png)" width="600" />
+  <img src="image.png" width="600" />
 </p>
 
 ## 🔍 Key Insights:
